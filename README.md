@@ -14,23 +14,27 @@ Pandas
 BigQuery
 Google Cloud SDK
 Instalação
-Clone o repositório:
-bash
-Copiar código
-git clone https://github.com/usuario/sistema-informacoes-ambulatoriais.git
-Acesse o diretório do projeto:
-bash
-Copiar código
-cd sistema-informacoes-ambulatoriais
-Instale as dependências:
-bash
-Copiar código
+Passos para Configuração:
+# Clone o repositório
+git clone https://github.com/Marcellecarol/Projeto-Final.git
+
+# Acesse o diretório do projeto
+cd Projeto-Final
+
+# Instale as dependências
 pip install -r requirements.txt
+
 Uso
-Execute as consultas e análises de dados utilizando o script SQL no BigQuery ou execute localmente o Python para análises mais complexas.
-
-
+Como Rodar o Projeto: Para executar os scripts e análises, use os seguintes comandos:
 Consulta SQL no BigQuery:
+# Executar coleta de dados
+python coleta_dados.py
+
+# Processar dados
+python processamento_dados.py
+
+# Escrever os resultados em um arquivo
+python escrita_dados.py
 
 sql
 Copiar código
