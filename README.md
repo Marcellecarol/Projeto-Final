@@ -13,6 +13,7 @@ Python 3.8+
 Pandas
 BigQuery
 Google Cloud SDK
+
 Instalação
 Passos para Configuração:
 # Clone o repositório
@@ -37,22 +38,22 @@ python processamento_dados.py
 python escrita_dados.py
 
 sql
-Copiar código
+
 SELECT estado, COUNT(*) AS total_atendimentos
 FROM `sistema_informacoes_ambulatoriais.atendimentos`
 GROUP BY estado;
-Rodar análise em Python:
 
-bash
-Copiar código
+Rodar análise em Python:
 python analise_atendimentos.py --ano 2024
+
 Estrutura do Projeto
 plaintext
-Copiar código
+
 ├── data                   # Dados ambulatoriais
 ├── scripts                # Scripts de análise
 ├── notebooks              # Notebooks Jupyter
 └── README.md              # Documentação
+
 Contribuição
 Contribuições são bem-vindas!.
 
