@@ -50,7 +50,7 @@ Copiar código
 ├── notebooks              # Notebooks Jupyter
 └── README.md              # Documentação
 Contribuição
-Contribuições são bem-vindas! Siga as diretrizes de contribuição.
+Contribuições são bem-vindas!.
 
 Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
