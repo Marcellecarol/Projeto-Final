@@ -57,8 +57,8 @@ plaintext
 Contribuição
 Contribuições são bem-vindas!.
 
-Licença
+#Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
 
-Contato
+#Contato
 Para dúvidas ou sugestões, entre em contato: marcellecarolina15@gmail.com.
